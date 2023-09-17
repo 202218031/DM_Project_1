@@ -1,4 +1,5 @@
 Diamonds Dataset Analysis
+
 Overview
 This repository contains an analysis of the Diamonds dataset, which is available here. The dataset consists of various attributes related to diamonds, including cut, color, clarity, carat weight, and more. The primary goal of this analysis is to explore the dataset, perform data pre-processing, and develop predictive models for different objectives related to diamond attributes.
 
@@ -44,6 +45,7 @@ Data Summary
 • Missing values were checked, and it was found that most values were labeled as "unknown" or "None" in many columns.
 • The number of unique values in each column was examined.
 • Summary statistics and insights were provided for each attribute.
+
 Data Exploration and Pre-processing
 • Initial Data Analysis (IDA) and Exploratory Data Analysis (EDA) were performed.
 • Insights into the dataset, including data distribution and relationships between attributes, were summarized.
