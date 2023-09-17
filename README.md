@@ -19,9 +19,11 @@ Table of Contents
 •	Conclusion
 
 
+
 Columns
 
 The dataset contains the following columns:
+
 •	cut
 
 •	color
@@ -72,6 +74,7 @@ The dataset contains the following columns:
 
 •	total_sales_price
 
+
 Data Summary
 
 •	Descriptive statistics, such as mean, median, and standard deviation, were calculated for numerical attributes.
@@ -84,6 +87,7 @@ Data Summary
 
 •	Summary statistics and insights were provided for each attribute.
 
+
 Data Exploration and Preprocessing
 
 •	Initial Data Analysis (IDA) and Exploratory Data Analysis (EDA) were performed.
@@ -95,6 +99,7 @@ Data Exploration and Preprocessing
 •	Outliers were detected and handled using boxplots.
 
 •	Variable encoding was performed to convert categorical variables into numerical format.
+
 
 Objective 1: Predicting Diamond Price
 
@@ -110,6 +115,7 @@ Objective 1: Predicting Diamond Price
 
 •	Regression lines were plotted to visualize the relationships.
 
+
 Objective 2: Predicting Carat Weight
 
 •	This objective aimed to predict the carat weight of diamonds.
@@ -122,6 +128,7 @@ Objective 2: Predicting Carat Weight
 
 •	Regression lines were visualized for the chosen models.
 
+
 Objective 3: Predicting Price per Carat Weight
 
 •	The objective was to predict the price per carat weight of diamonds.
@@ -133,6 +140,7 @@ Objective 3: Predicting Price per Carat Weight
 •	Ridge and Lasso Regression were applied to validate the results.
 
 •	Regression lines were plotted to visualize the predictions.
+
 
 Conclusion
 
